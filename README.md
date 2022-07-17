@@ -4,7 +4,7 @@
 A Fake ecommerce platform built using FakeStoreApi in Reactjs
 
 ## Features
-2. Page1: To show all products available
+1. Page1: To show all products available
 2. Page 2: To show details about a particular product
 3. Loader component to show loading Spinner while data is being fetched.
 4. Navbar and footer components
