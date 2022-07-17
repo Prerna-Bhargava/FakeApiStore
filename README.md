@@ -12,9 +12,9 @@ A Fake ecommerce platform built using FakeStoreApi in Reactjs
 6. Fully Responsive
 
 ## Tech Skills Used
-1 ReactJS
-2 Bootstrap
-3 HTML
-4 CSS
-5 Javascript
+1. ReactJS
+2. Bootstrap
+3. HTML
+4. CSS
+5. Javascript
 
