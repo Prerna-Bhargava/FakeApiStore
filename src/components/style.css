@@ -1,0 +1,28 @@
+.product {
+    width: 18rem;
+}
+
+@media screen and (max-width:1300px) {
+    .product {
+        width: 30%;
+    }
+}
+@media screen and (max-width:980px) {
+    .product {
+        width: 45%;
+    }
+}
+@media screen and (max-width:780px) {
+    .product {
+        width: 93%;
+    }
+}
+
+.single-product{
+ display: flex;
+ align-items: center;
+}
+
+.footer{
+    background-color: wheat;
+}
